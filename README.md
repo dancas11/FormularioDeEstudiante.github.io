@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 
 
@@ -168,7 +167,3 @@
                 event.preventDefault(); // Evitar que se envíe el formulario
             }
             </script>
-
-</body>
-
-</html>
